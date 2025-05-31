@@ -63,11 +63,11 @@ Contributions, suggestions, and feedback are welcome! Please open an issue or su
 
 ## Author
 
-Aayush — Backend Developer Enthusiast
+Aayush Bhargava — Backend Developer
 
 ---
 
 ## License
 
-MIT License
+SIT, Pune
 
